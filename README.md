@@ -1,11 +1,11 @@
 Dmitriy Smetanin  | Kazan, Russia 
 -
 
-##Contacts:
+#### Contacts:
 
-[mitsuwa1@vk.com](mailto:mitsuwa1@vk.com)   
-<a href="tel:555-555-5555">555-555-5555</a> 
-[vk.com/d.smtnn](vk.com/d.smtnn)
-      
+<div>
+<a href="mailto:mitsuwa1@vk.com">mitsuwa1@vk.com</a> <br>
+<a href="vk.com/d.smtnn">vk.com/d.smtnn</a>
+</div>
       
       
