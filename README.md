@@ -5,11 +5,12 @@ Dmitriy Smetanin  | Kazan, Russia
 <div>
 
 **Python Backend**      |     <a href="https://2.shkolkovo.online/">Shkolkovo[^1]</a>     |     Remotely    <br>
-Stack:      ...
+<div>
+Stack:      Django      &     NodeJS      &     PostgreSQL      &     Docker      &     Slack      <br> 
+</div>      
 Maintain a website with 50,000 daily visitors.  <br>
-Introduction of new technologies.   <br>
-Working with stream broadcasting (MPEG-TS protocol).  <br>
-Organize the intellectual property protection.
+Organize and optimize stream broadcasting (MPEG-TS protocol).  <br>
+Provide the intellectual property protection.
 
 
 </div>
@@ -24,7 +25,7 @@ Organize the intellectual property protection.
 <div>
 +7-932-611-66-61  <br>
 <a href="mailto:mitsuwa1@vk.com">mitsuwa1@vk.com</a>  <br>
-<a href="https://vk.com/d.smtnn">vk.com/d.smtnn</a>
+<a href="https://vk.com/mitsuwa1">vk.com/mitsuwa1</a>
 </div>
       
-[^1]: The biggest online education platform in Russia 
+[^1]: The biggest online education platform in Russia.
