@@ -1,7 +1,6 @@
-Dmitriy Smetanin  | Kazan, Russia 
--
+# Dmitriy Smetanin  | Kazan, Russia 
 
-#### Professional experience:
+## Professional experience:
 <div>
 
 **Python Backend**      |     <a href="https://2.shkolkovo.online/">Shkolkovo[^1]</a>     |     Remotely    <br>
@@ -16,12 +15,12 @@ Provide the intellectual property protection.
 </div>
 
 
-#### Education:
+## Education:
 <div>
 <div align="left">Software engineering | Kazan Federal University, Institute of Information Technologies and Intelligent Systems | Kazan, Russia</div>
 </div>
 
-#### Contacts:
+## Contacts:
 <div>
 +7-932-611-66-61  <br>
 <a href="mailto:mitsuwa1@vk.com">mitsuwa1@vk.com</a>  <br>
