@@ -1,6 +1,8 @@
 # Dmitriy Smetanin  | ..., Russia 
 
-## Professional experience:
+## Projects:
+
+## Experience:
 <!-- 
 <div>
 
