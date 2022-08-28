@@ -1,4 +1,4 @@
-# Dmitriy Smetanin  | ..., Russia 
+# Dmitriy Smetanin  | Kazan, Russia 
 
 ## Projects:
 
