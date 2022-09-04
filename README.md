@@ -6,11 +6,12 @@
 
 ## Education:
 
-Applied Mathematics and Information Science (Bachelor) | Higher School of Economics | e-learning <br>
-2022 - present
+Higher School of Economics University (eng) | e-learning | 2022 - present <br>
+- Major: <a href="https://www.hse.ru/en/ba/ami">Applied Mathematics and Information Science</a>
+- Minor: <a href="https://www.hse.ru/en/ba/data">Data Science and Business Analytics</a> (coop. with University of London)
 
-Software engineering (Bachelor) | Kazan Federal University | Kazan, Russia <br>
-2022 - present
+Kazan Federal University (rus) | Kazan, Russia | 2022 - present <br>
+- Major: <a href="https://kpfu.ru/eng/itis">Software engineering</a> 
 
 
 
@@ -20,5 +21,6 @@ Software engineering (Bachelor) | Kazan Federal University | Kazan, Russia <br>
 <div>
 +7-932-611-66-61  <br>
 <a href="mailto:mitsuwa1@vk.com">mitsuwa1@vk.com</a>  <br>
-<a href="https://vk.com/mitsuwa1">vk.com/mitsuwa1</a>
+<a href="https://vk.com/mitsuwa1">VK</a>  <br>
+<a href="https://t.me/mitsuwa1">Telegram</a>
 </div>
