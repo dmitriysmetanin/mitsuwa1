@@ -5,8 +5,16 @@
 ## Experience:
 
 ## Education:
+
+Applied Mathematics and Information Science (Bachelor) | Higher School of Economics | e-learning <br>
+2022 - present
+
 Software engineering (Bachelor) | Kazan Federal University | Kazan, Russia <br>
 2022 - present
+
+
+
+
 
 ## Contacts:
 <div>
