@@ -20,7 +20,7 @@ Kazan Federal University (rus) | Kazan, Russia | 2022 - present <br>
 ## Contacts:
 <div>
 +7-932-611-66-61  <br>
-<a href="mailto:mitsuwa1@vk.com">mitsuwa1@vk.com</a>  <br>
-<a href="https://vk.com/mitsuwa1">VK</a>  <br>
-<a href="https://t.me/mitsuwa1">Telegram</a>
+<a href="https://leetcode.com/dmitriysmetanin">LeetCode</a>  <br>
+<a href="https://vk.com/dmitriysmetanin">VK</a>  <br>
+<a href="https://t.me/dmitriysmetanin">Telegram</a>
 </div>
